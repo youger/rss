@@ -80,6 +80,7 @@
 <outline text="Hollance" title="Hollance" type="rss" xmlUrl="http://www.hollance.com/feed/" htmlUrl="http://www.hollance.com" />
 </outline>
 <outline title="iOS_En_Blog" text="iOS_En_Blog">
+<outline text="iOS Nomad – By Alek Åström" title="iOS Nomad – By Alek Åström" type="rss" xmlUrl="http://www.iosnomad.com/blog?format=rss" htmlUrl="http://www.iosnomad.com/" />
 <outline text="⌥⇧K" title="⌥⇧K" type="rss" xmlUrl="http://www.optshiftk.com/feed/" htmlUrl="http://www.optshiftk.com" />
 <outline text="noxeos" title="noxeos" type="rss" xmlUrl="http://www.noxeos.com/feed/" htmlUrl="http://www.noxeos.com" />
 <outline text="NSBlog" title="NSBlog" type="rss" xmlUrl="https://mikeash.com/pyblog/rss.py" htmlUrl="http://www.mikeash.com/pyblog/" />
@@ -110,22 +111,26 @@
 </outline>
 <outline title="iOS_Zh_Blog" text="iOS_Zh_Blog">
 <outline text="I'm TualatriX" title="I'm TualatriX" type="rss" xmlUrl="http://feeds.feedburner.com/tualatrix" htmlUrl="http://imtx.me/" />
-<outline text="Casa Taloyum" title="Casa Taloyum" type="rss" xmlUrl="http://casatwy.com/feeds/all.atom.xml" htmlUrl="http://casatwy.com/" />
+<outline text="无网不剩" title="无网不剩" type="rss" xmlUrl="http://feeds.feedburner.com/lzyy" htmlUrl="http://blog.leezhong.com/" />
 <outline text="苹果核" title="苹果核" type="rss" xmlUrl="http://pingguohe.net/feed/" htmlUrl="http://pingguohe.net" />
+<outline text="Casa Taloyum" title="Casa Taloyum" type="rss" xmlUrl="http://casatwy.com/feeds/all.atom.xml" htmlUrl="http://casatwy.com/" />
+<outline text="OneV's Den" title="OneV's Den" type="rss" xmlUrl="http://www.onevcat.com/atom.xml" htmlUrl="" />
+<outline text="iWangKe.me" title="iWangKe.me" type="rss" xmlUrl="http://www.iwangke.me/atom.xml" htmlUrl="http://ewangke.github.com/" />
+<outline text="卢克" title="卢克" type="rss" xmlUrl="http://geeklu.com/feed/" htmlUrl="" />
+<outline text="唐巧的技术博客" title="唐巧的技术博客" type="rss" xmlUrl="http://blog.devtang.com/atom.xml" htmlUrl="http://blog.devtang.com/" />
 <outline text="三石·道" title="三石·道" type="rss" xmlUrl="http://www.molotang.com/?feed=rss2" htmlUrl="http://www.molotang.com" />
+<outline text="txx's blog" title="txx's blog" type="rss" xmlUrl="http://blog.rpplusplus.me/atom.xml" htmlUrl="http://blog.rpplusplus.me/" />
 <outline text="Wonderffee's Blog" title="Wonderffee's Blog" type="rss" xmlUrl="http://wonderffee.github.io/atom.xml" htmlUrl="http://wonderffee.github.io/" />
 <outline text="不掏蜂窝的熊" title="不掏蜂窝的熊" type="rss" xmlUrl="http://www.hotobear.com/?feed=rss2" htmlUrl="http://www.hotobear.com" />
 <outline text="破船之家" title="破船之家" type="rss" xmlUrl="http://beyondvincent.com/atom.xml" htmlUrl="http://BeyondVincent.github.io/" />
-<outline text="无网不剩" title="无网不剩" type="rss" xmlUrl="http://feeds.feedburner.com/lzyy" htmlUrl="http://blog.leezhong.com/" />
+<outline text="I'm Ricky -- 个人主页" title="I'm Ricky -- 个人主页" type="rss" xmlUrl="http://rickytan.cn/atom.xml" htmlUrl="http://rickytan.github.io/" />
 <outline text="罗朝辉（飘飘白云）" title="罗朝辉（飘飘白云）" type="rss" xmlUrl="http://blog.csdn.net/kesalin/rss/list" htmlUrl="http://blog.csdn.net/kesalin" />
-<outline text="唐巧的技术博客" title="唐巧的技术博客" type="rss" xmlUrl="http://blog.devtang.com/atom.xml" htmlUrl="http://blog.devtang.com/" />
 <outline text="里脊串的开发随笔" title="里脊串的开发随笔" type="rss" xmlUrl="http://adad184.com/atom.xml" htmlUrl="http://www.adad184.com/" />
 <outline text="Kitten's 时间胶囊" title="Kitten's 时间胶囊" type="rss" xmlUrl="http://kittenyang.com/rss/" htmlUrl="http://kittenyang.com/" />
-<outline text="OneV's Den" title="OneV's Den" type="rss" xmlUrl="http://www.onevcat.com/atom.xml" htmlUrl="" />
-<outline text="卢克" title="卢克" type="rss" xmlUrl="http://geeklu.com/feed/" htmlUrl="" />
+<outline text="iOS技术周报" title="iOS技术周报" type="rss" xmlUrl="http://weekly.ios-wiki.com/feed" htmlUrl="http://weekly.ios-wiki.com" />
 <outline text="老谭" title="老谭" type="rss" xmlUrl="http://www.tanhao.me/feed" htmlUrl="" />
+<outline text="不会开机的男孩" title="不会开机的男孩" type="rss" xmlUrl="http://studentdeng.github.io/atom.xml" htmlUrl="http://studentdeng.github.com/" />
 <outline text="Travis' Blog" title="Travis' Blog" type="rss" xmlUrl="http://imi.im/feed" htmlUrl="http://imi.im" />
-<outline text="txx's blog" title="txx's blog" type="rss" xmlUrl="http://blog.rpplusplus.me/atom.xml" htmlUrl="http://blog.rpplusplus.me/" />
 <outline text="Yong的Blog" title="Yong的Blog" type="rss" xmlUrl="http://liyong03.github.io/atom.xml" htmlUrl="http://liyong03.github.io/" />
 <outline text="Garan no dou" title="Garan no dou" type="rss" xmlUrl="http://blog.ibireme.com/feed/" htmlUrl="http://blog.ibireme.com" />
 <outline text="阿毛的蛋疼地" title="阿毛的蛋疼地" type="rss" xmlUrl="http://www.xiangwangfeng.com/feed/" htmlUrl="http://xiangwangfeng.com" />
@@ -134,12 +139,9 @@
 <outline text="吴发伟Ted" title="吴发伟Ted" type="rss" xmlUrl="http://wufawei.com/feed/" htmlUrl="" />
 <outline text="Anselz's Blog" title="Anselz's Blog" type="rss" xmlUrl="http://www.anselz.com/?feed=rss2" htmlUrl="http://www.anselz.com" />
 <outline text="代码手工艺人" title="代码手工艺人" type="rss" xmlUrl="http://joeyio.com/rss.xml" htmlUrl="http://username.github.com" />
-<outline text="iWangKe.me" title="iWangKe.me" type="rss" xmlUrl="http://www.iwangke.me/atom.xml" htmlUrl="http://ewangke.github.com/" />
-<outline text="iOS技术周报" title="iOS技术周报" type="rss" xmlUrl="http://weekly.ios-wiki.com/feed" htmlUrl="http://weekly.ios-wiki.com" />
 <outline text="bang's blog" title="bang's blog" type="rss" xmlUrl="http://blog.cnbang.net/feed/" htmlUrl="" />
 <outline text="王中周的个人博客" title="王中周的个人博客" type="rss" xmlUrl="http://wangzz.github.io/atom.xml" htmlUrl="http://wangzz.github.io/" />
 <outline text="新叶" title="新叶" type="rss" xmlUrl="http://nixzhu.me/feed/" htmlUrl="http://nixzhu.me" />
-<outline text="不会开机的男孩" title="不会开机的男孩" type="rss" xmlUrl="http://studentdeng.github.io/atom.xml" htmlUrl="http://studentdeng.github.com/" />
 <outline text="萧宸宇" title="萧宸宇" type="rss" xmlUrl="http://www.iiiyu.com/atom.xml" htmlUrl="" />
 <outline text="Luosky's Playground" title="Luosky's Playground" type="rss" xmlUrl="http://luosky.com/feed/" htmlUrl="http://luosky.com/" />
 <outline text="sunnyxx" title="sunnyxx" type="rss" xmlUrl="http://blog.sunnyxx.com/atom.xml" htmlUrl="http://blog.sunnyxx.com/" />
@@ -164,6 +166,7 @@
 <outline text="DLog" title="DLog" type="rss" xmlUrl="http://dlog.dismory.com/atom.xml" htmlUrl="http://dlog.dismory.com/" />
 </outline>
 <outline title="NiuRen_Zh_Blog" text="NiuRen_Zh_Blog">
+<outline text="EVILCOS" title="EVILCOS" type="rss" xmlUrl="http://evilcos.me/?feed=rss2" htmlUrl="http://evilcos.me" />
 <outline text="楚国之门" title="楚国之门" type="rss" xmlUrl="http://feeds.feedburner.com/loxeyer" htmlUrl="http://www.zhuyinghao.com" />
 <outline text="酷壳 - CoolShell.cn" title="酷壳 - CoolShell.cn" type="rss" xmlUrl="http://coolshell.cn/feed" htmlUrl="http://coolshell.cn" />
 <outline text="云风的 BLOG" title="云风的 BLOG" type="rss" xmlUrl="http://blog.codingnow.com/atom.xml" htmlUrl="http://blog.codingnow.com/" />
